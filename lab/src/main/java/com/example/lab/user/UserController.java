@@ -1,3 +1,5 @@
+package com.example.lab.user;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

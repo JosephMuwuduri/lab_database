@@ -1,3 +1,5 @@
+package com.example.lab.user;
+
 import org.springframework.stereotype.Component;
 
 @Component

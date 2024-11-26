@@ -1,3 +1,5 @@
+package com.example.lab.user;
+
 import jakarta.persistence.*; // For JPA annotations
 import lombok.*; // For Lombok annotations
 import org.springframework.lang.Nullable; // For the Nullable annotation
